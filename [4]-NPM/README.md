@@ -18,4 +18,15 @@ npm:
 
 upgrade/update npm
 
-      ``` npm install -g npm ```
+      npm install -g npm
+
+install a package
+
+      npm -i express
+
+            node-modules directory created
+
+            modify the package.json file
+
+            also created package-lock.json
+            
